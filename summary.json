@@ -1,0 +1,157 @@
+{
+    "LIR18650 2600mAh": {
+        "Performance": {
+            "Nominal Voltage": "3.7V",
+            "Nominal Capacity": "2600mAh",
+            "Typical Capacity": "2550mAh",
+            "Minimum Capacity": "2500mAh",
+            "Internal Impedance": "≤ 70mΩ",
+            "Discharge Cut-off Voltage": "3.0V",
+            "Max Charge Voltage": "4.20±0.05V",
+            "Standard Charge Current": "0.52A",
+            "Rapid Charge Current": "1.3A",
+            "Standard Discharge Current": "0.52A",
+            "Rapid Discharge Current": "1.3A",
+            "Max Pulse Discharge Current": "2.6A",
+            "Weight": "46.5±1g",
+            "Max Dimension": {
+                "Diameter": "18.4mm",
+                "Height": "65.2mm"
+            },
+            "Operating Temperature": {
+                "Charge": "0 ~ 45 ℃",
+                "Discharge": "-20 ~ 60 ℃"
+            },
+            "Storage Temperature": {
+                "1 month": "-5 ~ 35 ℃",
+                "6 months": "0 ~ 35 ℃"
+            },
+            "Cycle Life": "300 cycles with residual capacity ≥2050mAh"
+        },
+        "Safety Performances": {
+            "Short Circuit": "No fire, no explosion",
+            "Impact Test": "No fire, no explosion",
+            "Low Temperature Performance": "Capacity ≥1800mAh at -20±2℃",
+            "Anti-vibration": "No deformation, no leak, smoke, or explosion",
+            "Drop Test": "No fire, no explosion, Discharge Time ≥102min"
+        },
+        "Manufacturer": "EEMB Co., Ltd.",
+        "Website": "http://eemb.com",
+        "Warranty": "12 months from the date of delivery",
+        "Images": {
+            "Image1": {
+                "Observation": "The battery has a length of 65.0 ± 0.2 mm and a diameter of 18.4 +0/-0.3 mm. It features a positive (+) terminal at the top and a negative (-) terminal at the bottom."
+            },
+            "Image2": {
+                "Rate Discharge Characteristics": "The voltage decreases as the discharge capacity increases, with higher discharge rates leading to a faster decline in voltage.",
+                "Charge Characteristics": "Voltage initially increases sharply and then levels off as capacity increases, reaching a plateau before tapering off toward maximum capacity over approximately 180 minutes.",
+                "Discharge Temperature Characteristics": "At higher temperatures, voltage is maintained better over the same discharge capacity range.",
+                "Cycle Characteristics": "Residual capacity decreases slowly with more charge-discharge cycles, remaining above 80% after 300 cycles."
+            }
+        }
+    },
+    "PC817 Series": {
+        "Absolute Maximum Ratings": {
+            "Forward Current (I_F)": "50 mA",
+            "Peak Forward Current (I_FM)": "1 A",
+            "Reverse Voltage (V_R)": "6 V",
+            "Power Dissipation (P)": "70 mW",
+            "Collector-Emitter Voltage (V_CEO)": "35 V",
+            "Emitter-Collector Voltage (V_ECO)": "6 V",
+            "Collector Current (I_C)": "50 mA",
+            "Collector Power Dissipation (P_C)": "150 mW",
+            "Total Power Dissipation (P_tot)": "200 mW",
+            "Isolation Voltage (V_iso)": "5000 V (AC, 1 min)",
+            "Operating Temperature (T_opr)": "-30 to +100 °C",
+            "Storage Temperature (T_stg)": "-40 to +125 °C",
+            "Soldering Temperature (T_sol)": "260 °C"
+        },
+        "Electro-Optical Characteristics": {
+            "Current Transfer Ratio (CTR)": {
+                "PC817A": "80 to 160%",
+                "PC817B": "130 to 260%",
+                "PC817C": "200 to 400%",
+                "PC817D": "300 to 600%"
+            },
+            "Forward Voltage (V_F)": "1.2 to 1.4 V",
+            "Peak Forward Voltage (V_FM)": "Max 3.0 V",
+            "Reverse Current (I_R)": "Max 10 µA",
+            "Capacitance (C_t)": "Typ 30 pF",
+            "Collector Dark Current (I_CEO)": "Max 0.1 µA",
+            "Collector-Emitter Saturation Voltage (V_CE(sat))": "Max 0.2 V",
+            "Isolation Resistance (R_iso)": "Min 5 x 10^10 Ω"
+        },
+        "Additional Measurements": {
+            "Duty Ratio": "0.001",
+            "Pulse Width": "<= 100 µs",
+            "Response Time": {
+                "Rise Time (t_r)": "4 µs",
+                "Fall Time (t_f)": "18 µs"
+            }
+        },
+        "Images": {
+            "Image1": {
+                "Observation": "The PC817 Series is a high-density mounting type photocoupler with a high insulation voltage of 5000 V between input and output."
+            },
+            "Image2": {
+                "Observation": "The technical specifications detail the absolute maximum ratings and electro-optical characteristics of the PC817 Series."
+            },
+            "Image3": {
+                "Observation": "Graphs illustrate the relationship between collector power dissipation, forward current, and ambient temperature."
+            },
+            "Image4": {
+                "Observation": "The response time and frequency response test circuits are shown, demonstrating the behavior of the PC817 series under various conditions."
+            }
+        }
+    },
+    "½ AA 3V Battery": {
+        "Performance": {
+            "Voltage": "3V",
+            "Shelf Life": "Up to 10 years",
+            "Operating Life": "Long operating life",
+            "Discharge Rate Capability": "High discharge rate capability",
+            "Energy Density": "High energy density",
+            "Voltage Delay": "No voltage delay",
+            "Operating Temperature Range": "Wide operating temperature range"
+        },
+        "General Specifications": {
+            "Cell Construction": "Hermetically sealed Ni-plated steel can",
+            "Weight": "Lightweight"
+        },
+        "Applications": [
+            "Consumer telematics",
+            "Commercial telematics",
+            "Search & rescue devices",
+            "Military communications, detectors & imaging",
+            "Medical devices"
+        ],
+        "Manufacturer": "Ultralife Corporation",
+        "Website": "www.ultralifecorp.com",
+        "Warranty": "Information is subject to change without notice",
+        "Images": {
+            "Image1": {
+                "Observation": "The battery is labeled 'Ultralife' and uses 'Lithium Manganese Dioxide' as its chemistry. It appears cylindrical in shape."
+            },
+            "Image2": {
+                "Observation": {
+                    "Curve at +55°C": {
+                        "Initial Voltage": "3.3V",
+                        "Duration": "Maintains voltage above 2.7V for approximately 13 hours",
+                        "Decline": "Sharp decline after 13 hours"
+                    },
+                    "Curve at +22°C": {
+                        "Initial Voltage": "3.3V",
+                        "Duration": "Stable voltage above 2.5V for roughly 9 hours",
+                        "Decline": "Significant drop after 9 hours"
+                    },
+                    "Curve at -5°C": {
+                        "Initial Voltage": "3.3V",
+                        "Duration": "Falls below 2V around 6.5 hours",
+                        "Decline": "Steep decline compared to higher temperatures"
+                    },
+                    "Conclusion": "The battery discharges more efficiently at higher temperatures, with longer duration and higher voltage retention at +55°C."
+                }
+            }
+        }
+    }
+}
